@@ -1,0 +1,28 @@
+.first-box {
+  width: 300px;
+  float: left;
+  background: green;
+  height: 150px;
+  margin: 50px;
+  margin-left: 50px;
+}
+
+.first-box p {
+  color: #ffffff;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+.second-box {
+  width: 300px;
+  height: 150px;
+  float: right;
+  background: blue;
+  margin: 50px;
+  margin-left: 50px;
+}
+
+.second-box p {
+  color: #ffffff;
+  padding-left: 50px;
+  padding-top: 50px;
+}
